@@ -1,6 +1,4 @@
-# Palmer_penguins
- Hello fellow data adventurer! Welcome to my respository!
+# GDAC Analyse Data using R: Palmer_penguins
+Welcome to the part of my Google Data Analytics Certificate journey, where I learnt to create graphics on R studio using ggplot2.
  
- Here, I demonstrate my ability to  perform data investigations and create data vizualisations of penguins on the Palmer archipelago of Antartica.
- 
- Hope you enjoy your stay, just as much as I enjoyed coding this!
+Here, I demonstrated my ability to perform data investigations and create data vizualisations of penguins on the Palmer archipelago of Antartica.
